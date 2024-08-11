@@ -23,6 +23,8 @@ if (flutterVersionName == null) {
 }
 
 android {
+    namespace 'appmire.be.flutterjailbreakdetectionexample'
+
     compileSdkVersion 34
 
     compileOptions {
