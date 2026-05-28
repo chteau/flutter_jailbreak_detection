@@ -31,3 +31,8 @@ build/
 hs_err_pid*
 
 example/.flutter-plugins-dependencies
+
+# Swift Package Manager
+.build/
+.swiftpm/
+!.gitkeep
